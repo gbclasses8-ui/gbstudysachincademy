@@ -1,0 +1,6 @@
+{
+  "name": "GB STUDY",
+  "description": "GB STUDY - Premium Online Learning Portal for CTET, KVS, DSSSB, BPSC & State TET with live lectures, HLS video player, notes and PDF handouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
